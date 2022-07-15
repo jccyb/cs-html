@@ -77,4 +77,4 @@ h2{color: darkslateblue;
     font-family: serif; 
     font-size: 1.25em;}
 section {background-color:lavender; width:40%; font-size: 1.25em;}
-footer {background-color:lightsteelblue}
+footer {background-color:lightsteelblue; clear: both;}
